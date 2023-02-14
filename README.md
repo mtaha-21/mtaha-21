@@ -22,7 +22,7 @@
     </h3>
 <!-- Social -->
 <p align='center' style='margin: 16px 4px 8px;'>
-    <img src="images/coder.gif">
+    <img src="images/coderr.gif">
 </p>
 
 
