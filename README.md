@@ -22,7 +22,7 @@
     </h3>
 <!-- Social -->
 <p align='center' style='margin: 16px 4px 8px;'>
-    <img src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif" alt="working developer">
+    <img src="images/coder.gif">
 </p>
 
 
