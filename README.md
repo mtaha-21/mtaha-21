@@ -1,4 +1,45 @@
-![MasterHead](https://geekflare.com/wp-content/uploads/2022/10/Heres-What-it-Means-to-Be-a-Full-Stack-Developer.jpeg)
+
+<!-- "Hero" Header -->
+<div align="center">
+<img src="images/welcome.png" />
+  <br />
+
+</div>
+
+<!-- Social -->
+<table width="100%" align="center">
+<tr>
+<td align="center">
+<a href="https://taha-portfolio.vercel.app/](https://taha-portfolio.vercel.app/">
+<strong>Visit my personal website </strong>
+<br />
+<br />
+<br />
+
+<p>
+
+<img alt="Globe" height="80" src="images/globe.gif">
+</a>
+</p>
+
+</td>
+
+
+<td align="center">
+<a href="https://www.youtube.com/watch?v=CoAR464xv2E">
+<strong>Listen to cool music</strong>
+<br />
+<br />
+
+
+<p>
+<img height="100" alt="Music" src="images/music.gif"> 
+</a>
+</p>
+
+</td>
+</tr>
+</table>
 <h1 align="center">Hi 👋, I'm Taha Murtaza</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align= "right" alt="Coding" width="400" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
@@ -22,3 +63,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mtaha-21&show_icons=true&locale=en" alt="mtaha-21" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mtaha-21&" alt="mtaha-21" /></p>
+<div align="center">
+<div align="center">
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+</div>
+<br />
+</div>
