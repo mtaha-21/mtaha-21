@@ -10,17 +10,26 @@
 <h3 align='center' style='margin: 16px 4px;'>
     <a href='https://taha-portfolio.vercel.app/'>My Portfolio Website</a>
 </h3>
-
+<h3 align="center">
+            I specialize in building mobile responsive front-end UI applications
+            that connect with API’s and other backend technologies. I’m
+            passionate about learning new technologies and understand there is
+            more than one way to accomplish a task. Though I am most proficient
+            in building front-end applications using HTML, CSS, Javascript, and
+            React, I am a quick learner and can pick up new tech stacks as
+            needed. I believe that being a great developer is not using one
+            specific language, but choosing the best tool for the job.
+    </h3>
 <!-- Social -->
+<p align='center' style='margin: 16px 4px 8px;'>
+    <img src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif" alt="working developer">
+</p>
 
 
-<img align= "right" alt="Coding" width="400" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mtaha-21&label=Profile%20views&color=0e75b6&style=flat" alt="mtaha-21" /> </p>
-
-- 🌱 I’m currently learning **Node.Js**
-
-- 👨‍💻 Click to view my portfolio [https://taha-portfolio.vercel.app/](https://taha-portfolio.vercel.app/)
+<p align="center" style='margin: 16px 4px 8px;'> 
+    <img src="https://komarev.com/ghpvc/?username=mtaha-21&label=Profile%20views&color=0e75b6&style=flat" alt="mtaha-21" /> 
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
