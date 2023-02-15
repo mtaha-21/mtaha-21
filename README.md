@@ -1,6 +1,6 @@
 
 <!-- "Hero" Header -->
-![MasterHead](images/banner.png)
+![MasterHead](images/greetings.gif)
 <h1 align="center">
     Hi👋, I'm Taha Murtaza
 </h1>
